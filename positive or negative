@@ -13,3 +13,4 @@ printf("The number is negative");
 else if(a==0)
 printf("The number is Zero");
 getch();
+}
