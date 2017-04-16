@@ -14,6 +14,6 @@ if(a%i==0&&b%i==0)
 {
     d=i;
 }}
-printf("%d",d);
+printf("\nThe HCF of %d and %d is %d",a,b,d);
 return 0;
 }
